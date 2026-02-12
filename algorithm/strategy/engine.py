@@ -1,0 +1,2 @@
+class StrategyEngine:
+    """ SECTION OMITTED """
