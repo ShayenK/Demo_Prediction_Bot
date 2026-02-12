@@ -111,7 +111,7 @@ FULL KELLY FRACTION: 7.55%
 **Performance Notes**:
 - Backtest assumes realistic transaction costs (Polymarket fee structure + 0.3% slippage)
 - Edge derived from >50% accuracy requirement in binary markets with ~2% edge over random
-- Monthly retraining shows improved performance vs. static model (+8.3% accuracy improvement)
+- Monthly retraining shows improved performance vs. static model (+3.3% accuracy improvement)
 - Performance degrades in low-volatility periods (identified as key limitation)
 
 ## Technologies & Dependencies
